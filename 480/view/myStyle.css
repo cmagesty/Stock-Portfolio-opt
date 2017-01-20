@@ -1,0 +1,60 @@
+/* Format for the login */
+body {
+    background-color: lightgray;
+    margin: 0 auto 0 auto; 
+    height: 100%;  
+    position: relative;  
+    width: 450px;
+}
+h1 {
+    text-align: center;
+}
+.page_content
+{
+    width: 100%;
+    height: 0 auto;
+    margin-top: 50px;
+
+    padding: 15px;
+    background-color : white;
+    
+    border: solid black;
+    border-radius: 25px;
+    border-width: 1px;
+}
+.error {
+    color: red;
+}
+.user_form {
+    display: inline-block;
+    text-align: center;
+    background-color: white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 10px;
+    
+    border: solid;
+    border-radius: 25px;
+    border-color: black;
+    border-width: 1px;
+}
+
+.section {
+    padding: 6px;
+    border: solid;
+    border-color: lightgray;
+    border-radius: 25px;
+    border-width: 1px;
+}
+
+table{
+    margin: 0 auto;
+}
+th ,td {
+    padding: 15px;
+    border-bottom: 1px solid gray;
+}
+td {
+        text-align: left;
+}
+
